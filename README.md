@@ -11,11 +11,11 @@
 Replace the image paths with your own images.
 
 📂 App Interface
-![Alt Text](./images/todo_screenshot.png)
+![Alt Text](login.png)
 
 
 📝 Task List Page
-![Alt Text](./images/todo_screenshot.png)
+![Alt Text](todo.jpeg)
 
 
  
@@ -26,7 +26,7 @@ Upload your demo video and add the link below.
 
 Click to watch video
 
-[Click to watch demo](./videos/demo.mp4)
+[Click to watch demo](12-42-07.mp4)
 
 
 🛠️ Tech Stack
